@@ -1,0 +1,33 @@
+PODS:
+  - Nimble (9.2.1)
+  - RxBlocking (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - RxTest (6.5.0):
+    - RxSwift (= 6.5.0)
+  - Stubber (1.5.3)
+
+DEPENDENCIES:
+  - Nimble
+  - RxBlocking
+  - RxTest
+  - Stubber
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - RxBlocking
+    - RxSwift
+    - RxTest
+    - Stubber
+
+SPEC CHECKSUMS:
+  Nimble: e7e615c0335ee4bf5b0d786685451e62746117d5
+  RxBlocking: 04b5fd28bb5ea49f7d64b80db8bbfe50d9cc1c7d
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  RxTest: eb2d23adefc5a5ebf5779c7792fa3edfe6ebcc17
+  Stubber: 3ea4080870feeaf5b1637314a92245eef9b8c8e7
+
+PODFILE CHECKSUM: 79e20356880a8cabd66b96ecb1fcd67381860be7
+
+COCOAPODS: 1.11.2

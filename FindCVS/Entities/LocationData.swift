@@ -8,5 +8,5 @@
 import Foundation
 
 struct LocationData: Decodable {
-    let document: [KLDocument]
+    let documents: [KLDocument]
 }

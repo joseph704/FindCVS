@@ -26,6 +26,7 @@ struct LocalAPI {
             URLQueryItem(name: "sort", value: "distance")
         ]
         
+        
         return componets
     }
 }

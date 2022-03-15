@@ -6,7 +6,9 @@ target 'FindCVS' do
   use_frameworks!
 
   # Pods for FindCVS
-
+  pod 'RxSwift'
+  pod 'RxCocoa'
+  pod 'SnapKit'
 
   target 'FindCVSTests' do
     inherit! :search_paths
